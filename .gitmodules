@@ -5,3 +5,7 @@
 [submodule "BPCells"]
 	path = BPCells
 	url = https://github.com/bnprks/BPCells
+[submodule "BPCells.dev"]
+	path = BPCells.dev
+	url = https://github.com/bnprks/BPCells
+	branch = highway-simd
