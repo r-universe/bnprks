@@ -9,3 +9,4 @@
 	path = BPCells.dev
 	url = https://github.com/bnprks/BPCells
 	branch = highway-simd
+	subdir = r
