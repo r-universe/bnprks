@@ -8,5 +8,5 @@
 [submodule "BPCells.dev"]
 	path = BPCells.dev
 	url = https://github.com/bnprks/BPCells
-	branch = highway-simd
+	branch = r-universe
 	subdir = r
